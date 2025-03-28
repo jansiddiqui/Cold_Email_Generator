@@ -3,3 +3,16 @@ langchain
 langchain-community
 langchain-groq
 chromadb
+
+duckdb
+sqlalchemy
+fastapi
+uvicorn
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+requests
+pydantic
+openai
